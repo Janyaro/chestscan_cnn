@@ -1,0 +1,11 @@
+env/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+# dataset and big cache (not redistributed)
+chest_xray/
+cache_256.npy
+# quick-test leftovers
+*_quick.pt
+preds_*_quick.csv
