@@ -134,10 +134,9 @@ pip install -r requirements.txt scikit-learn
 - Evaluate on an independent chest X-ray dataset.
 - Calibrate the scores and choose the operating threshold on data that resembles deployment.
 
-## Author
+## Authors & Collaborators
 
-Wasim Akram Janyaro | Software Engineering graduate, Mehran University of Engineering and Technology
- [waseemjanyaro@gmail.com]
-=======
+* **Wasim Akram Janyaro** – Software Engineering graduate (Mehran University of Engineering and Technology). Interested in machine learning for public health. [waseemjanyaro@gmail.com]
+* **Rizwan Rafique** – Software Engineering graduate (Mehran University of Engineering and Technology). [palijorizwanrafique746@gmail.com]
 # chestscan_cnn
 >>>>>>> c15bce2fa1986625f22f8bf40ce5c649b459b2cb
