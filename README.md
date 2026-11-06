@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ChestScan-CNN: Pneumonia Detection from Paediatric Chest X-rays
 
 A ResNet18 classifier for pneumonia versus normal chest X-rays, with Grad-CAM and a Streamlit demo. The main lesson of the project is about evaluation: **in this dataset, image size alone predicts the label**, so a high score does not by itself show that the model reads the lungs.
@@ -138,5 +138,4 @@ pip install -r requirements.txt scikit-learn
 
 * **Wasim Akram Janyaro** – Software Engineering graduate (Mehran University of Engineering and Technology). Interested in machine learning for public health. [waseemjanyaro@gmail.com]
 * **Rizwan Rafique** – Software Engineering graduate (Mehran University of Engineering and Technology). [palijorizwanrafique746@gmail.com]
-# chestscan_cnn
->>>>>>> c15bce2fa1986625f22f8bf40ce5c649b459b2cb
+
